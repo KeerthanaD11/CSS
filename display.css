@@ -1,0 +1,24 @@
+
+div{
+    display: inline-block;
+    width: 40%;
+}
+.dog{
+    background-color: aqua;
+    float: left;
+    
+}
+p{
+    font-size: large;
+}
+img{
+    float: left;
+}
+.cat{
+    background-color: orangered;
+    float: right;
+}
+footer{
+    background-color: rgb(179, 33, 179);
+    clear: both;
+}
