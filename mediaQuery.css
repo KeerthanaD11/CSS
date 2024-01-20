@@ -1,0 +1,27 @@
+.head{
+    color: orange;
+
+}
+.title{
+    font-size: 4rem;
+}
+div{
+    display: inline-block;
+    width: 45%;
+}
+.abc{
+    float: left;
+}
+.xyz{
+    float: right;
+}
+.uvw{
+    float: left;
+}
+.lmn{
+    float: right;
+}
+img{
+    float: left;
+    padding: 20px;
+}
